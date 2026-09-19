@@ -19,8 +19,9 @@ import {
   TrendingUp,
   UsersRound,
   X,
+  type LucideIcon,
 } from "lucide-react";
-import { useState, type LucideIcon } from "react";
+import { useState } from "react";
 
 export const Route = createFileRoute("/")({
   head: () => ({
